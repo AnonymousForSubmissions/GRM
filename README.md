@@ -12,4 +12,6 @@ Run the command:
 Then run the command:
 `python mainl2aug.py`
 
-To switch the dataset, modify the "datasets" value in parse.py. The dataset directory should also be specificed in parse.py.
+To switch the dataset, modify the "datasets" value in parse.py.  
+
+The dataset directory should also be specificed in parse.py.
