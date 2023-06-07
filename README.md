@@ -1,6 +1,6 @@
 # GRM
 
-This is the code for the paper "Adaptive Subgraph Generation for Graph OOD Generalization" submitted to NeurIPS 2023, . 
+This is the code for the paper "_Adaptive Subgraph Generation for Graph OOD Generalization_" submitted to NeurIPS 2023, . 
 
 ### Requirement:
 torch==1.8.1
